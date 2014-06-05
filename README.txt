@@ -2,7 +2,7 @@ Programming Methodology @ SFSU Fall 2013.
 ==================================
 
 This repo includes small programs developed in C++. Under each directory titled hw#TurnIn (# is the homework number 
-e.g. hw1TurnIn) you can find a collection of small program. Each program here is the way it was submitted for grading
+e.g. hw1TurnIn) you can find a collection of small programs. Each program here is the way it was submitted for grading
 and is structured as follow:
 a) At the top of each program is a small description
 b) The actual program, methods etc. 
